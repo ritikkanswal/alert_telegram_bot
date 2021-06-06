@@ -1,1 +1,1 @@
-worker: python Scripts/Frontend.py
+worker: python Frontend.py
