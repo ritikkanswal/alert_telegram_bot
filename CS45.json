@@ -66,18 +66,17 @@
         "url": "https://meet.google.com/wmq-gaao-ytn"
     },
     {
-        "title": "DBMS LAB",
-        "day": "wednesday",
-        "time": "11:00",
-        "url": "https://meet.google.com/lookup/dwqjir3ftm"
-    },
-    {
         "title": "Database Management Systems",
         "day": "wednesday",
         "time": "15:00",
         "url": "https://meet.google.com/aek-cmff-uui"
     },    
-    
+     {
+        "title": "DBMS LAB",
+        "day": "wednesday",
+        "time": "11:00",
+        "url": "https://meet.google.com/lookup/dwqjir3ftm"
+    },
      {
         "title": "Modeling and Simulation",
         "day": "thursday",
@@ -93,8 +92,14 @@
     {
         "title": "DBMS LAB",
         "day": "thursday",
-        "time": "11:00",
+        "time": "16:00",
         "url": "https://meet.google.com/lookup/dwqjir3ftm"
+    },
+     {
+        "title": "Data Simulation Lab",
+        "day": "thursday",
+        "time": "11:00",
+        "url": "https://meet.google.com/lookup/gztocklaev"
     },
     {
         "title": "Database Management Systems",
@@ -133,7 +138,6 @@
         "time": "11:00",
         "url": "https://meet.google.com/lookup/dwqjir3ftm"
     },
-
      {
         "title": "Probability and Statistics",
         "day": "saturday",
