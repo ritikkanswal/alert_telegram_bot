@@ -1,1 +1,1 @@
-worker: python Main.py
+worker: python CS45.py
