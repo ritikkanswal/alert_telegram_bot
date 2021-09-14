@@ -2,7 +2,7 @@ from telegram import *
 from telegram.ext import *
 from decouple import config
 SECRET_KEY=config('SECRET_KEY')
-bot=Bot(SECRET_KEY)
+bot=Bot(SECRET_KEY) 
 
 # print(bot.get_me())
 updater=Updater(SECRET_KEY,use_context=True)
