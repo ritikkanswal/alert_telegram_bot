@@ -3,16 +3,16 @@ import datetime
 import time
 import schedule
 import json
-
+from decouple import config
 import os
 
 link="https://api.telegram.org/bot"
-token="1408961367:AAEEhvOu1LrshVTdAdia55lGX3Vxlj9UwXA"
+token=config('SECRET_KEY')
 chat_id="-1001221415233"
 
 #fetching data from json file
 def Days():
-    with open("CS44.json") as f:
+    with open("Time_Table_Data/CS44.json") as f:
         Data=json.load(f)
     return Data
 
