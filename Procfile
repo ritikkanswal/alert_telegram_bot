@@ -1,1 +1,1 @@
-worker: python CS55.py
+worker: python bot_interface.py
