@@ -32,6 +32,7 @@ def job(Dict):
 
 #logic part
 for Dict in Data:
+    print("For Checking")
     if(Dict['day'].lower()=="monday"):
         schedule.every().monday.at(Dict['time']).do(job,Dict)
     elif(Dict['day'].lower()=="tuesday"):
