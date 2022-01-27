@@ -12,7 +12,7 @@ chat_id="-1001221415233"
 
 #fetching data from json file
 def Days():
-    with open("Time_Table_Data\\CS55.json") as f:
+    with open("Time_Table_Data\\CS65.json") as f:
         Data=json.load(f)
     return Data
 
