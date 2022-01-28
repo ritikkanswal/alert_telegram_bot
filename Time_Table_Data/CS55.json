@@ -1,195 +1,236 @@
 [
     {
-        "title": "COMPUTER GRAPHICS(18B11CI515)",
+        "title": "DATA MINING(18B11CI613)",
         "day": "monday",
         "time": "09:00",
-        "url": "https://meet.google.com/lookup/dc3h34tkjm?authuser=0&hs=179"
+        "url": "https://meet.google.com/tnq-eaas-uxq?authuser=0&hs=179"
     },
     {
-        "title": "APPLIED MATERIALS SCIENCE(18B1WPH532)",
+        "title": "BUSINESS ANALYTICS(18B1WHS632)",
         "day": "monday",
         "time": "10:00",
-        "url": "https://meet.google.com/lookup/f74c6sh5n3?authuser=0&hs=179"
+        "url": "https://meet.google.com/ttg-gojo-oau?authuser=0&hs=179"
     },
     {
-        "title": "COMPUTER ORGANIZATION AND ARCHITECTURE(18B11CI514)",
+        "title": "COMPUTER NETWORKS LAB(18B17CI671)",
         "day": "monday",
         "time": "11:00",
-        "url": "https://meet.google.com/wmw-rhjg-cne"
+        "url": "https://meet.google.com/bwo-xyfw-bfq?authuser=0&hs=179"
     },
     {
-        "title": "COMPUTER ORGANIZATION AND ARCHITECTURE LAB(18B17CI574)",
+        "title": "COMPUTER NETWORKS LAB(18B17CI671)",
         "day": "monday",
-        "time": "13:00",
-        "url": "https://meet.google.com/lookup/ggccpvnh23?authuser=0&hs=179"
+        "time": "12:00",
+        "url": "https://meet.google.com/bwo-xyfw-bfq?authuser=0&hs=179"
     },
     {
-        "title": "COMPUTER ORGANIZATION AND ARCHITECTURE LAB(18B17CI574)",
+        "title": "ARCHITECTING DISTRIBUTED CLOUD APPLICATIONS(19B1WCI635)",
         "day": "monday",
         "time": "14:00",
-        "url": "https://meet.google.com/lookup/ggccpvnh23?authuser=0&hs=179"
+        "url": "https://meet.google.com/sbp-kypg-nzn?authuser=0&hs=179"
     },
     {
-        "title": "INFORMATION SYSTEMS LAB(18B17CI572)",
+        "title": "COMPUTER NETWORKS(18B11CI611)",
         "day": "monday",
         "time": "15:00",
-        "url": "https://meet.google.com/lookup/asxcy7lxpe?authuser=0&hs=179"
+        "url": "https://meet.google.com/hwt-jsaf-ihx?authuser=0&hs=179"
     },
     {
-        "title": "INFORMATION SYSTEMS LAB(18B17CI572)",
+        "title": "COMPILER DESIGN(18B11CI612)",
         "day": "monday",
         "time": "16:00",
-        "url": "https://meet.google.com/lookup/asxcy7lxpe?authuser=0&hs=179"
+        "url": "https://meet.google.com/dyf-ggba-txk?authuser=0&hs=179"
     },
-
     {
-        "title": "PROJECT MANAGEMENT AND ENTREPRENEURSHIP(18B11HS511)",
+        "title": "DATA MINING(18B11CI613)",
         "day": "tuesday",
         "time": "09:00",
-        "url": "https://meet.google.com/lookup/b4naxu4mad?authuser=0&hs=179"
+        "url": "https://meet.google.com/tnq-eaas-uxq?authuser=0&hs=179"
     },
     {
-        "title": "FORMAL LANGUAGE & AUTOMATA THEORY(18B11CI513)",
+        "title": "MACHINE LEARNING(18B1WCI634)",
         "day": "tuesday",
         "time": "10:00",
-        "url": "https://meet.google.com/lookup/bbgk5jzrwy?authuser=0&hs=179"
+        "url": "https://meet.google.com/msr-vyvd-dvz?authuser=0&hs=179"
     },
     {
-        "title": "COMPUTER GRAPHICS LAB(18B17CI575)",
+        "title": "COMPILER DESIGN LAB(18B17CI672)",
         "day": "tuesday",
         "time": "11:00",
-        "url": "https://meet.google.com/lookup/h5jbn6voie?authuser=0&hs=179"
+        "url": "https://meet.google.com/dyf-ggba-txk?authuser=0&hs=179"
     }, 
     {
-        "title": "COMPUTER GRAPHICS LAB(18B17CI575)",
+        "title": "COMPILER DESIGN LAB(18B17CI672)",
         "day": "tuesday",
         "time": "12:00",
-        "url": "https://meet.google.com/lookup/h5jbn6voie?authuser=0&hs=179"
-    },
-    {
-        "title": "CLOUD COMPUTING: CONCEPTS, TECHNOLOGY & ARCHITECTURE(20B1WCI532)",
-        "day": "tuesday",
-        "time": "14:00",
-        "url": "https://meet.google.com/lookup/aa3tja5tta?authuser=0&hs=179"
-    },
-    {
-        "title": "INFORMATION SYSTEMS(18B11CI512)",
-        "day": "tuesday",
-        "time": "16:00",
-        "url": "https://meet.google.com/lookup/akzfbzzmhx?authuser=0&hs=179"
-    },
-    {
-        "title": "COMPUTER GRAPHICS(18B11CI515)",
-        "day": "wednesday",
-        "time": "09:00",
-        "url": "https://meet.google.com/lookup/dc3h34tkjm?authuser=0&hs=179"
-    },
-    {
-        "title": "APPLIED MATERIALS SCIENCE(18B1WPH532)",
-        "day": "wednesday",
-        "time": "10:00",
-        "url": "https://meet.google.com/lookup/f74c6sh5n3?authuser=0&hs=179"
-    },
-    {
-        "title": "COMPUTER ORGANIZATION AND ARCHITECTURE(18B11CI514)",
-        "day": "wednesday",
-        "time": "11:00",
-        "url": "https://meet.google.com/wmw-rhjg-cne"
+        "url": "https://meet.google.com/dyf-ggba-txk?authuser=0&hs=179"
     }, 
     {
-        "title": "MULTIMEDIA LAB(18B1WCI575)",
-        "day": "wednesday",
-        "time": "13:00",
-        "url": "https://meet.google.com/lookup/aeupkyejk3?authuser=0&hs=179"
+        "title": "ARCHITECTING DISTRIBUTED CLOUD APPLICATIONS LAB(19B1WCI675)",
+        "day": "tuesday",
+        "time": "14:00",
+        "url": "https://meet.google.com/vtq-gece-iwg?authuser=0&hs=179"
     },
     {
-        "title": "MULTIMEDIA LAB(18B1WCI575)",
+        "title": "ARCHITECTING DISTRIBUTED CLOUD APPLICATIONS LAB(19B1WCI675)",
+        "day": "tuesday",
+        "time": "15:00",
+        "url": "https://meet.google.com/vtq-gece-iwg?authuser=0&hs=179"
+    },
+    {
+        "title": "DATA MINING LAB(18B17CI673)",
+        "day": "tuesday",
+        "time": "16:00",
+        "url": "https://meet.google.com/icy-zqaa-urq?authuser=0&hs=179"
+    },
+    {
+        "title": "DATA MINING LAB(18B17CI673)",
+        "day": "tuesday",
+        "time": "17:00",
+        "url": "https://meet.google.com/icy-zqaa-urq?authuser=0&hs=179"
+    },
+    {
+        "title": "BUSINESS ANALYTICS(18B1WHS632)",
+        "day": "wednesday",
+        "time": "10:00",
+        "url": "https://meet.google.com/ttg-gojo-oau?authuser=0&hs=179"
+    },
+    {
+        "title": "MACHINE LEARNING LAB(18B1WCI674)",
+        "day": "wednesday",
+        "time": "11:00",
+        "url": "https://meet.google.com/mqj-fvux-jko?authuser=0&hs=179"
+    },
+    {
+        "title": "MACHINE LEARNING LAB(18B1WCI674)",
+        "day": "wednesday",
+        "time": "12:00",
+        "url": "https://meet.google.com/mqj-fvux-jko?authuser=0&hs=179"
+    },
+    {
+        "title": "ARCHITECTING DISTRIBUTED CLOUD APPLICATIONS(19B1WCI635)",
         "day": "wednesday",
         "time": "14:00",
-        "url": "https://meet.google.com/lookup/aeupkyejk3?authuser=0&hs=179"
+        "url": "https://meet.google.com/sbp-kypg-nzn?authuser=0&hs=179"
     },
     {
-        "title": "CLOUD COMPUTING: CONCEPTS, TECHNOLOGY & ARCHITECTURE LAB(20B1WCI572)",
+        "title": "COMPUTER NETWORKS(18B11CI611)",
         "day": "wednesday",
         "time": "15:00",
-        "url": "https://meet.google.com/lookup/eugmhknxc6?authuser=0&hs=179"
+        "url": "https://meet.google.com/hwt-jsaf-ihx?authuser=0&hs=179"
     },
     {
-        "title": "CLOUD COMPUTING: CONCEPTS, TECHNOLOGY & ARCHITECTURE LAB(20B1WCI572)",
+        "title": "COMPILER DESIGN(18B11CI612)",
         "day": "wednesday",
         "time": "16:00",
-        "url": "https://meet.google.com/lookup/eugmhknxc6?authuser=0&hs=179"
+        "url": "https://meet.google.com/dyf-ggba-txk?authuser=0&hs=179"
     },
     {
-        "title": "PROJECT MANAGEMENT AND ENTREPRENEURSHIP(18B11HS511)",
+        "title": "DATA MINING LAB(18B17CI673)",
         "day": "thursday",
         "time": "09:00",
-        "url": "https://meet.google.com/lookup/b4naxu4mad?authuser=0&hs=179"
+        "url": "https://meet.google.com/icy-zqaa-urq?authuser=0&hs=179"
     },
     {
-        "title": "FORMAL LANGUAGE & AUTOMATA THEORY(18B11CI513)",
+        "title": "DATA MINING LAB(18B17CI673)",
         "day": "thursday",
         "time": "10:00",
-        "url": "https://meet.google.com/lookup/bbgk5jzrwy?authuser=0&hs=179"
+        "url": "https://meet.google.com/icy-zqaa-urq?authuser=0&hs=179"
     },
     {
-        "title": "COMPUTER GRAPHICS LAB(18B17CI575)",
+        "title": "ARCHITECTING DISTRIBUTED CLOUD APPLICATIONS LAB(19B1WCI675)",
         "day": "thursday",
         "time": "11:00",
-        "url": "https://meet.google.com/lookup/h5jbn6voie?authuser=0&hs=179"
-    }, 
+        "url": "https://meet.google.com/vtq-gece-iwg?authuser=0&hs=179"
+    },
     {
-        "title": "COMPUTER GRAPHICS LAB(18B17CI575)",
+        "title": "ARCHITECTING DISTRIBUTED CLOUD APPLICATIONS LAB(19B1WCI675)",
         "day": "thursday",
         "time": "12:00",
-        "url": "https://meet.google.com/lookup/h5jbn6voie?authuser=0&hs=179"
+        "url": "https://meet.google.com/vtq-gece-iwg?authuser=0&hs=179"
     },
     {
-        "title": "CLOUD COMPUTING: CONCEPTS, TECHNOLOGY & ARCHITECTURE(20B1WCI532)",
+        "title": "MACHINE LEARNING(18B1WCI634)",
         "day": "thursday",
         "time": "14:00",
-        "url": "https://meet.google.com/lookup/aa3tja5tta?authuser=0&hs=179"
+        "url": "https://meet.google.com/msr-vyvd-dvz?authuser=0&hs=179"
     },
     {
-        "title": "INFORMATION SYSTEMS(18B11CI512)",
+        "title": "COMPUTER NETWORKS(18B11CI611)",
+        "day": "thursday",
+        "time": "15:00",
+        "url": "https://meet.google.com/hwt-jsaf-ihx?authuser=0&hs=179"
+    },
+    {
+        "title": "COMPILER DESIGN(18B11CI612)",
         "day": "thursday",
         "time": "16:00",
-        "url": "https://meet.google.com/lookup/akzfbzzmhx?authuser=0&hs=179"
+        "url": "https://meet.google.com/dyf-ggba-txk?authuser=0&hs=179"
     },
     {
-        "title": "COMPUTER GRAPHICS(18B11CI515)",
+        "title": "DATA MINING(18B11CI613)",
         "day": "friday",
         "time": "09:00",
-        "url": "https://meet.google.com/lookup/dc3h34tkjm?authuser=0&hs=179"
+        "url": "https://meet.google.com/tnq-eaas-uxq?authuser=0&hs=179"
     },
     {
-        "title": "APPLIED MATERIALS SCIENCE(18B1WPH532)",
+        "title": "BUSINESS ANALYTICS(18B1WHS632)",
         "day": "friday",
         "time": "10:00",
-        "url": "https://meet.google.com/lookup/f74c6sh5n3?authuser=0&hs=179"
+        "url": "https://meet.google.com/ttg-gojo-oau?authuser=0&hs=179"
     },
     {
-        "title": "COMPUTER ORGANIZATION AND ARCHITECTURE(18B11CI514)",
+        "title": "COMPUTER NETWORKS LAB(18B17CI671)",
         "day": "friday",
         "time": "11:00",
-        "url": "https://meet.google.com/wmw-rhjg-cne"
+        "url": "https://meet.google.com/bwo-xyfw-bfq?authuser=0&hs=179"
+    },
+    {
+        "title": "COMPUTER NETWORKS LAB(18B17CI671)",
+        "day": "friday",
+        "time": "12:00",
+        "url": "https://meet.google.com/bwo-xyfw-bfq?authuser=0&hs=179"
+    },
+    {
+        "title": "ARCHITECTING DISTRIBUTED CLOUD APPLICATIONS(19B1WCI635)",
+        "day": "friday",
+        "time": "14:00",
+        "url": "https://meet.google.com/sbp-kypg-nzn?authuser=0&hs=179"
+    },
+    {
+        "title": "MACHINE LEARNING LAB(18B1WCI674)",
+        "day": "friday",
+        "time": "15:00",
+        "url": "https://meet.google.com/mqj-fvux-jko?authuser=0&hs=179"
+    },
+    {
+        "title": "MACHINE LEARNING LAB(18B1WCI674)",
+        "day": "friday",
+        "time": "16:00",
+        "url": "https://meet.google.com/mqj-fvux-jko?authuser=0&hs=179"
+    },
+    {
+        "title": "MACHINE LEARNING LAB(18B1WCI674)",
+        "day": "saturday",
+        "time": "09:00",
+        "url": "https://meet.google.com/mqj-fvux-jko?authuser=0&hs=179"
+    },
+    {
+        "title": "MACHINE LEARNING LAB(18B1WCI674)",
+        "day": "saturday",
+        "time": "10:00",
+        "url": "https://meet.google.com/mqj-fvux-jko?authuser=0&hs=179"
+    },
+    {
+        "title": "COMPILER DESIGN LAB(18B17CI672)",
+        "day": "saturday",
+        "time": "11:00",
+        "url": "https://meet.google.com/dyf-ggba-txk?authuser=0&hs=179"
     }, 
     {
-        "title": "PROJECT MANAGEMENT AND ENTREPRENEURSHIP(18B11HS511)",
+        "title": "COMPILER DESIGN LAB(18B17CI672)",
         "day": "saturday",
-        "time": "09:00",
-        "url": "https://meet.google.com/lookup/b4naxu4mad?authuser=0&hs=179"
-    },
-    {
-        "title": "FORMAL LANGUAGE & AUTOMATA THEORY(18B11CI513)",
-        "day": "saturday",
-        "time": "10:00",
-        "url": "https://meet.google.com/lookup/bbgk5jzrwy?authuser=0&hs=179"
-    },
-    {
-        "title": "INFORMATION SYSTEMS(18B11CI512)",
-        "day": "saturday",
-        "time": "11:00",
-        "url": "https://meet.google.com/lookup/akzfbzzmhx?authuser=0&hs=179"
+        "time": "12:00",
+        "url": "https://meet.google.com/dyf-ggba-txk?authuser=0&hs=179"
     }
 ]
