@@ -49,4 +49,5 @@ for Dict in Data:
 
 while True:
     schedule.run_pending()
+    print("testing !!")
     time.sleep(1)
